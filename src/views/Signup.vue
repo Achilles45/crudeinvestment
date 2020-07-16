@@ -145,7 +145,7 @@ export default {
                 this.loading = false
                 firebase.auth().createUserWithEmailAndPassword(this.email, this.password)
                 .then((cred)=>{
-                     db.collection('users').add({
+                     db.collection('users').doc(this.email).set({
                         name:this.name,
                         phone:this.phone,
                         email:this.email,
