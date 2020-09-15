@@ -9,10 +9,8 @@
               </div>
                <div class="col-md-4">
                   <h5>Our Location & Contact</h5>
-                <h6><i class="fa fa-home"></i> Head Office</h6>
-                <p>Block C, 6th Floor, NNPC Towers, Central Business District, Abuja, FCT, Nigeria.</p>
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
-                <p>crudeoilmarketing9@gmail.com</p>
+                <p>crudeoilmarketing63@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
                 <p><a href="tel:08122069201"> 08122069201</a></p>
               </div>

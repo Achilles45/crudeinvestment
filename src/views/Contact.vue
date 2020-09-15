@@ -18,7 +18,7 @@
                         <div class="icon__wrapper">
                                 <p><i class="fa fa-envelope"></i></p>
                         </div>
-                        <p class="pl-3">crudeoilmarketing9@gmail.com</p>
+                        <p class="pl-3">crudeoilmarketing63@gmail.com</p>
                     </div>
                   </div><br>
                    <div class="col-md-4">
@@ -29,14 +29,14 @@
                         <p class="pl-3">08122069201</p>
                     </div>
                   </div><br>
-                   <div class="col-md-4">
+                   <!-- <div class="col-md-4">
                       <div class="info__wrapper d-flex align-items-center">
                      <div class="icon__wrapper">
                             <p><i class="fa fa-home"></i></p>
                      </div>
                         <p class="pl-3">Block C, 6th Floor, NNPC Towers, Central Business District, Abuja, FCT, Nigeria.</p>
                     </div>
-                  </div>
+                  </div> -->
                   <br>
               </div>
               <div class="row heading">

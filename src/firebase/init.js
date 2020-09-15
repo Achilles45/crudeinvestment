@@ -2,14 +2,14 @@ import firebase from 'firebase';
 import firestore from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBaREQnOGpScSKxxMEH0AOEygCDn0ZZkoY",
-  authDomain: "crude-marketing.firebaseapp.com",
-  databaseURL: "https://crude-marketing.firebaseio.com",
-  projectId: "crude-marketing",
-  storageBucket: "crude-marketing.appspot.com",
-  messagingSenderId: "1060346854625",
-  appId: "1:1060346854625:web:7624922173f183a118cba0",
-  measurementId: "G-PP2ESGDEJL"
+  apiKey: "AIzaSyCMGBc-4REXfGoncxWHCHsMpDzUEryAdw4",
+  authDomain: "crude-marketing-ebf60.firebaseapp.com",
+  databaseURL: "https://crude-marketing-ebf60.firebaseio.com",
+  projectId: "crude-marketing-ebf60",
+  storageBucket: "crude-marketing-ebf60.appspot.com",
+  messagingSenderId: "136823826953",
+  appId: "1:136823826953:web:cd93aaf22a7ddb339ae6d8",
+  measurementId: "G-QJ83XD15LG"
 };
   // Initialize Firebase
   const firebaseApp = firebase.initializeApp(firebaseConfig);

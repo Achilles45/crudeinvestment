@@ -56,10 +56,10 @@
                      <!-- <i class="fa fa-home"></i> -->
                      <div class="content pl-4">
                          <!-- <h6>Bank Accounts</h6> -->
-                         <h6>Bank Name: {{ bank_name}}</h6>
+                         <h6>Bank Name: Union Bank PLC</h6>
                          <hr>
-                         <h6>Account Number:  {{ account_number }}</h6>
-                         <h6>Account Name:  {{ account_name }}</h6>
+                         <h6>Account Number: 0092503934</h6>
+                         <h6>Account Name:  Sunday Daniel</h6>
                      </div>
                   </div>
                     <!-- <div class="summary__card three pt-4">
@@ -76,7 +76,6 @@
                          <h6>Bitcoin Payment</h6>
                          <hr>
                          <h6>Wallet Address: 3GaALc36Up2N1R34DNQAU2AczrERq2osfx</h6>
-                         <!-- <h6>Account Name:  Usuoyibo Achilles Ewomamena</h6> -->
                      </div>
                   </div>
               </div>
