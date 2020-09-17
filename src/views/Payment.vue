@@ -75,7 +75,7 @@
                          <!-- <h6>Bank Accounts</h6> -->
                          <h6>Bitcoin Payment</h6>
                          <hr>
-                         <h6>Wallet Address: 3GaALc36Up2N1R34DNQAU2AczrERq2osfx</h6>
+                         <h6>Wallet Address: 3F2cCjzbGqgBpeBoDiZwDqdxniW9DbZ3Nm</h6>
                      </div>
                   </div>
               </div>
